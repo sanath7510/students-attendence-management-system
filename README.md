@@ -1,1 +1,1 @@
-# students-attendence-management-system
+# AI Student Attendance Management System
