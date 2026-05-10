@@ -1,8 +1,0 @@
-customtkinter
-opencv-contrib-python
-numpy
-pandas
-tkcalendar
-pyzbar
-qrcode
-pillow
